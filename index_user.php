@@ -31,7 +31,7 @@
 
                     <!-- MEMBUAT DATABASE TABLE -->
                       <tr>
-                         <td>Id Pemesan</td>
+                        <td>Id Pemesan</td>
                         <td>Nama Pemesan</td>
                         <td>Kode Meja</td>
                       </tr>
